@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: francivan
+Build-Jdk: 15.0.1
+Implementation-Title: biometrico
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.demo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/biometrico
+Created-By: Maven Integration for Eclipse
+
